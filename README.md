@@ -1,5 +1,6 @@
 # ique_recypt_decrypt
 
+```
 ique_recrypt_decrypt 0.1 by marshallh
 -------------------------------------
 Arguments: ique_recrypt_decrypt
@@ -8,10 +9,10 @@ Arguments: ique_recrypt_decrypt
          -recout <decrypted rec output>
 
 For each recrypted title slot in the file details will be printed.
-
+```
 
 # Sample output
-
+```
 ique_recrypt_decrypt 0.1 by marshallh
 -------------------------------------
 * Opening OTP binary otp_bbid_3C66.bin
@@ -36,3 +37,4 @@ ique_recrypt_decrypt 0.1 by marshallh
   Content name : The Legend of Zelda: Ocarina of Time
   Content key  : 4882BAE90A06A4AA1B858AB06B11C4DC
 * Done
+```
